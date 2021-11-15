@@ -1,6 +1,6 @@
-### Hi there 👋
-- 🔭 I’m currently working  como Analista de Suporte
-- 🌱 I’m currently learning  Angular
+### Fala meu querido, bem?
+
+Aqui você encontrará alguns projetos e trabalhos feito durante minha graduação
 
  <div>
   <a href="https://github.com/antoniiux">
