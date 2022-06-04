@@ -1,4 +1,4 @@
-### Fala meu querido, bem?
+### Fala meu querido, bão?
 
 Aqui você encontrará alguns projetos e trabalhos feito durante minha graduação
 
